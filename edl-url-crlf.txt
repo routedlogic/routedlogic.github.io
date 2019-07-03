@@ -1,0 +1,10 @@
+1drvl9ppvhe1e02wver.z13.web.core.windows.net
+apolloforce.com
+bluemarineimmo.be
+*.bluemarineimmo.be
+install-cdn.cantataweb.net
+*.install-cdn.cantataweb.net
+install-cdn.opticalsurfturf.com
+*.install-cdn.opticalsurfturf.com
+install-cdn.greenerweb.info
+*.install-cdn.greenerweb.info
