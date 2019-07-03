@@ -8,3 +8,5 @@ install-cdn.opticalsurfturf.com
 *.install-cdn.opticalsurfturf.com
 install-cdn.greenerweb.info
 *.install-cdn.greenerweb.info
+*.203.0.113.0
+203.0.113.0/images/blah
