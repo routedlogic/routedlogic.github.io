@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nullbytes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://routedlogic.net
+  * I am nullbytes (https://keybase.io/nullbytes) on keybase.
+  * I have a public key ASC0oPSkKS2o9FstjWQXKFRl-SMZeppiQn_TZpGUfCIq2go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b4a0f4a4292da8f45b2d8d6417285465f923197a9a62427fd36691947c222ada0a",
+      "host": "keybase.io",
+      "kid": "0120b4a0f4a4292da8f45b2d8d6417285465f923197a9a62427fd36691947c222ada0a",
+      "uid": "6b10c3e2d56a980db3711548f363f319",
+      "username": "nullbytes"
+    },
+    "merkle_root": {
+      "ctime": 1572347858,
+      "hash": "84271cc428dae392a3d755a92a62e7647cc196eacaf887e3a808bbe98a2ba743b84b1b3dbe1f511990a59ede4731e784b56cd22ffe81871fc1a8968b45ab339f",
+      "hash_meta": "69fba69397ec2f8c84687f9beef931dcd94b8dab4ae82eb052db0455e7efd7ef",
+      "seqno": 8485581
+    },
+    "service": {
+      "entropy": "z9JvxNikdpfjX4UDpSh1xO11",
+      "hostname": "routedlogic.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572347876,
+  "expire_in": 504576000,
+  "prev": "ea28548f9b8a4bb12d81b9ca63ce7a7f3a9c4d744609cb2d2d3ccce05fe563b2",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtKD0pCktqPRbLY1kFyhUZfkjGXqaYkJ/02aRlHwiKtoKp3BheWxvYWTESpcCCsQg6ihUj5uKS7EtgbnKY856fzqcTXRGCcstLTzM4F/lY7LEICjl5X5rrqBLPt4sTQRCIl1RSHVmSWyuh33REt/uRZAKAgHCo3NpZ8RAvgu/RhT5CqGWLpOfXmuaF0LL6gvCCg21gAhX9DGjMsLe4b2WyAN+SvyhehemXJUBAqk3mJj7dk7RjMV5vSMvDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHmxFZEvl+njcquh1ciedsjoTZoBmq83mEBe4QKl4t2Ro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nullbytes
+
+==================================================================
