@@ -1,4 +1,5 @@
 version: STSv1
 mode: enforce
 mx: mail.protonmail.ch
+mx: *.mx.cloudflare.net
 max_age: 604800
