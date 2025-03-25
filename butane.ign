@@ -1,0 +1,18 @@
+{
+  "ignition": {
+    "version": "3.1.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel"
+        ],
+        "name": "lalinux",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJEYbZshWe2oCvdjRm2jCJRgWhBLYNFqp6VAxE4tmF+u"
+        ]
+      }
+    ]
+  }
+}
