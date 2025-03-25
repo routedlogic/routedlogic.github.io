@@ -1,6 +1,6 @@
 {
   "ignition": {
-    "version": "3.1.0"
+    "version": "3.5.0"
   },
   "passwd": {
     "users": [
@@ -9,9 +9,30 @@
           "wheel"
         ],
         "name": "lalinux",
+        "passwordHash": "$y$j9T$pBdZceupT0sSTDRTVc3Xn.$F7oy6M0jkiWc5377V0eKXSg6l1M8R9q6YOiSJo37/D4",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJEYbZshWe2oCvdjRm2jCJRgWhBLYNFqp6VAxE4tmF+u"
         ]
+      }
+    ]
+  },
+  "storage": {
+    "files": [
+      {
+        "path": "/boot/grub2/user.cfg",
+        "append": [
+          {
+            "compression": "gzip",
+            "source": "data:;base64,H4sIAAAAAAAC/yTITaoUQQwA4P2connum6SSqqQWLlJJx2NID9MqCDND/yDeXuRtvy/Tt+257eu5Pab732lc5/rcbrdjO6fjem/7dWz78fVjf73Oj9t7PY4/r/3x/X3//fhRpv86/dyv+/wJ8/FrrVhmBACYPYsZt2iJtWbLCCyAKeSxiHdtDhbZqUUJ1kFDnaJA4+HGyNkzFTMpy7I0c1SnMhwZQ1TThJs2VxFZMrzXihQMYkhLHRC9zgGLgwootSKY2a0Sd3NlKtiV1IQqUO/uakNBKihY9zJGVEs19/DRcSlcKndvHQKtjTQqWBAYJYEQMwaDiZiQKDfiaGXUEbd/AQAA///2fb+wXQEAAA=="
+          }
+        ]
+      }
+    ],
+    "filesystems": [
+      {
+        "device": "/dev/disk/by-label/boot",
+        "format": "ext4",
+        "path": "/boot"
       }
     ]
   }
