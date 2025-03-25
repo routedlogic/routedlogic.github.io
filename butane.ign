@@ -19,15 +19,11 @@
   "storage": {
     "disks": [
       {
-        "device": "/dev/disk/by-id/coreos-boot-disk",
+        "device": "/dev/sdb",
         "partitions": [
           {
-            "label": "root",
-            "number": 4,
-            "sizeMiB": 16384
-          },
-          {
-            "label": "var"
+            "label": "var",
+            "number": 1
           }
         ]
       }
